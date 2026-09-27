@@ -8,5 +8,4 @@ int main(){
     b=c;
     printf("value of a:%d",a);
     return 0;
-
 }
