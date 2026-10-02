@@ -18,7 +18,6 @@ int main(){
     case 'u':
     printf("This is a vowel");
         break;
-    
     default:
     printf("This is a consonant");
         break;
