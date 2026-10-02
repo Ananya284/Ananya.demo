@@ -2,9 +2,9 @@
 int main(){
     int n,first=0,second=1,next;
     printf("enter one terms");
-    scanf("%d",&n);
+    scanf("%d", &n);
     for(int i=1;i<=n;i++){
-        printf("%d", first);
+        printf("%d ", first);
         next=first+second;
         first=second;
         second=next;
