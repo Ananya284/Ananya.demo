@@ -20,7 +20,7 @@ int main(){
         break;
     default:
     printf("This is a consonant");
-        break;
+    
     }
     return 0;
 }
